@@ -1,0 +1,18 @@
+¿Qué ocurre cuando ejecutas node server.js?
+
+Cuando ejecutas el comando node server.js, el servidor se inicia y queda preparado para recibir solicitudes de los usuarios desde el navegador o desde otras aplicaciones.
+
+¿Qué mensaje aparece en la terminal?
+
+En la terminal aparece un mensaje indicando que el servidor está activo y funcionando correctamente, por ejemplo: "Servidor iniciado correctamente".
+
+¿Qué sucede cuando visitas la ruta /estado?
+
+Cuando visitas la ruta /estado, el servidor responde mostrando información sobre su estado actual y confirma que el servicio está disponible para los usuarios.
+
+Ejemplo de respuesta:
+
+{
+"estado": "Activo",
+"mensaje": "El servidor está funcionando correctamente"
+}

@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas que usan las comunidades 
+funcionan de manera estable y segura, porque permite que todos los 
+usuarios puedan acceder a la plataforma sin interrupciones además que 
+debe proteger los datos personales y evitar errores como accesos no 
+autorizados y si un servidor es inestable puede ser más propenso a 
+errores que hacen que los servicios no estén disponibles cuando se 
+necesiten en algunas ocasiones además genera confianza en los usuarios, 
+si es estable además de participar más y fortalece el uso de herramientas 
+tecnológicas en la comunidad
